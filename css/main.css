@@ -231,10 +231,13 @@ h6 { font-size: 20px; }
 
 #paso-final {
 	height: 700px;
-	
+	padding-top: 100px;
 }
 
-	#paso-final {
-		position: absolute;
+	#paso-final h3 {
+		padding-left: 200px;
+	}
 
+	#paso-final img {
+		float: left;
 	}
